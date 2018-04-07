@@ -1,1 +1,2 @@
 Battery life improvement
+Added second line with some changes
